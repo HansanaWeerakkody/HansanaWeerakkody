@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Undergraduate | 🌐 Web Developer | 🎨 Designer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="CPU Animation"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coding Animation"/>
 </p>
 
 <p align="center">
