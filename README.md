@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Undergraduate | 🌐 Web Developer | 🎨 Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DC8F2&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Passionate+Web+Developer;UI%2FUX+Designer+%7C+Creative+Thinker;Always+Learning+and+Building;Turning+Ideas+into+Code"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DC8F2&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Passionate+Web+Developer;UI%2FUX+Designer+%7C+Creative+Thinker;Always+Learning+and+Building;Turning+Ideas+into+Code"/>
 </p>
 
 ---
@@ -17,7 +17,8 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,figma,photoshop,git,github,vscode,azure" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,figma,photoshop" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
