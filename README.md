@@ -2,6 +2,10 @@
 <h3 align="center">💻 Computer Science Undergraduate | 🌐 Web Developer | 🎨 Designer</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="CPU Animation"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DC8F2&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Passionate+Web+Developer;UI%2FUX+Designer+%7C+Creative+Thinker;Always+Learning+and+Building;Turning+Ideas+into+Code"/>
 </p>
 
